@@ -1,0 +1,65 @@
+/* Reset default browser styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+/* Center content and add padding */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header styles */
+header {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #fff; /* White background */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+header h1 {
+    color: #333; /* Dark gray text color */
+    font-size: 2.5rem;
+}
+
+/* Section styles */
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Project list styles */
+ul.projects-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul.projects-list li {
+    margin-bottom: 10px;
+}
+
+ul.projects-list li a {
+    text-decoration: none;
+    color: #007bff; /* Blue link color */
+    font-weight: bold;
+}
+
+ul.projects-list li a:hover {
+    color: #0056b3; /* Darker blue on hover */
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333; /* Dark background */
+    color: #fff; /* White text color */
+}
