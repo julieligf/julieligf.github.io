@@ -71,7 +71,7 @@ Contributions are welcome! Feel free to fork this repository, make changes, and 
 
 ---
 
-![Portfolio Logo](julieligf.github.io/Images/portfolio_logo.png)
+![Portfolio Logo](/Images/portfolio_logo.png)
 ```
 
 ### Explanation
